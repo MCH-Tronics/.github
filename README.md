@@ -1,10 +1,9 @@
 
 <div align="center">
   <a href="https://www.mch-tronics.ch">
-    <img src="assets/logo.png" alt="MCH-TRONICS Logo" width="250">
+    <img src="./assets/logo.png" alt="MCH-TRONICS Logo" width="100%">
   </a>
 
-  # MCH-TRONICS Sagl
 
   **Mechatronics | Industrial Automation | Robotics**
 
