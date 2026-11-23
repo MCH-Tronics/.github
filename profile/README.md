@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://www.mch-tronics.ch">
-    <img src="./assets/logo.png" alt="MCH-TRONICS Logo" width="100%">
+    <img src="../assets/logo.png" alt="MCH-TRONICS Logo" width="100%">
   </a>
 
 
